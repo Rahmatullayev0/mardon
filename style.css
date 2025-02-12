@@ -1,0 +1,122 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #D6FC52;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #D6FC52;
+}
+nav .btn1{
+    width: 130px;
+    height: 32px;
+    border-radius: 10px;
+background-color: #D6FC52;
+
+}nav a{
+    text-decoration: none;
+    color: black;
+margin-right: 20px;
+
+}
+nav .btn2{
+    color: black;
+    background-color: #D6FC52;
+    border: none;
+    margin-right: 20px;
+}
+nav .btn3{
+    width: 100px;
+    height: 25px;
+    color: aliceblue;
+    background-color: black;
+    border-radius: 15px;
+}
+
+header h1{
+    font-size: 107px;
+    line-height: 90px;
+    font-weight: 200;
+}
+header h3{
+    font-size: 48px;
+    font-weight: 200;
+
+}
+header button{
+    width: 761px;
+height: 88px;
+border-radius: 15px;
+background-color: black;
+color: #D6FC52;
+font-size: 41px;
+
+
+}
+header p{
+    font-size: 30px;
+    line-height: 5;
+}
+main .cs1{
+    padding: 50px;
+}
+main h1{
+    font-size: 150px;
+    font-weight: 1;
+}
+main h3{
+font-size: 42px;
+line-height: 50px;
+font-weight: 100;
+
+}
+.cs4 h1{
+    font-size: 170px;
+}
+.cs4 button{
+    width: 761px;
+    height: 88px;
+    border-radius: 15px;
+    background-color: black;
+    color: #D6FC52;
+    font-size: 41px;
+}
+.cs4 h3{
+    font-size: 20px;
+}
+.vs1 h1{
+    font-size: 80px;
+}
+.vs1{
+    background-color: black;
+    color: #D6FC52;
+    padding: 40px 40px;
+}
+.vs2 h2{
+font-size: 60px;
+font-weight: 100;
+}
+.vs2 h1{
+    font-size: 80px;
+    font-weight: 50;
+}
+.cs5 a{
+    text-decoration: none;
+    color: black;
+margin-right: 50px;
+font-size: 30px;
+font-weight: 50;
+}
+.cs6 h1{
+font-size: 40px;
+}
+.cs6{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
